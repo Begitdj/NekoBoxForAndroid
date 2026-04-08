@@ -10,7 +10,7 @@ require (
 	github.com/oschwald/maxminddb-golang v1.13.1
 	github.com/sagernet/quic-go v0.52.0-sing-box-mod.3
 	github.com/sagernet/sing v0.7.18
-	github.com/sagernet/sing-box v1.0.0 // replaced
+	github.com/sagernet/sing-box v1.13.6
 	github.com/sagernet/sing-tun v0.7.10
 	github.com/ulikunitz/xz v0.5.15
 	golang.org/x/mobile v0.0.0-20231108233038-35478a0c49da
