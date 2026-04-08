@@ -257,12 +257,12 @@ class AssetsActivity : ThemedActivity() {
 
     private val rulesProviders = listOf(
         RuleAssetsProvider(
-            "soffchen/sing-geoip",
-            "soffchen/sing-geosite",
-        ),
-        RuleAssetsProvider(
             "SagerNet/sing-geoip",
             "SagerNet/sing-geosite",
+        ),
+        RuleAssetsProvider(
+            "soffchen/sing-geoip",
+            "soffchen/sing-geosite",
         ),
         RuleAssetsProvider(
             "Chocolate4U/Iran-sing-box-rules"
