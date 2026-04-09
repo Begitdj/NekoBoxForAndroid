@@ -18,7 +18,7 @@ popd
 ####
 
 if [ ! -d "libneko" ]; then
-  git clone --no-checkout https://github.com/starifly/sing-box.git
+  git clone --no-checkout https://github.com/starifly/libneko.git
 fi
 pushd libneko
 git checkout "$COMMIT_LIBNEKO"
