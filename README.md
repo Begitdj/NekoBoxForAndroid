@@ -99,3 +99,6 @@ Android GUI:
 Web Dashboard:
 
 - [Yacd-meta](https://github.com/MetaCubeX/Yacd-meta)
+
+NekoBox starifly fork:
+- [NekoBoxForAndroid](https://github.com/starifly/NekoBoxForAndroid)
