@@ -5,7 +5,6 @@ go 1.24
 toolchain go1.24.9
 
 require (
-	github.com/dyhkwong/sing-juicity v0.0.3
 	github.com/gofrs/uuid/v5 v5.3.2
 	github.com/matsuridayo/libneko v1.0.0 // replaced
 	github.com/miekg/dns v1.1.67
